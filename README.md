@@ -1,4 +1,4 @@
-# 🧬 Herencia_v2 – Programación Orientada a Objetos en C#
+#  🧩 Herencia_v2 – Programación Orientada a Objetos en C#
 
 Ejercicio de programación desarrollado en **C# (.NET Framework)** cuyo objetivo es aplicar y comprender el concepto de **herencia** dentro del paradigma de la **Programación Orientada a Objetos (POO)**.
 
